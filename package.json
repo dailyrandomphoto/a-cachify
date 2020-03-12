@@ -17,7 +17,7 @@
     "mocha": "^7.0.0",
     "a-cachify": "file:.",
     "nyc": "^15.0.0",
-    "xo": "^0.25.3"
+    "xo": "^0.28.0"
   },
   "keywords": [
     "cache",
