@@ -16,7 +16,7 @@
     "a-cachify": "file:.",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "mocha": "^8.1.0",
+    "mocha": "^9.0.1",
     "nyc": "^15.1.0",
     "prettier": "latest",
     "unlink-self": "latest",
